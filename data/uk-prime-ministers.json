@@ -1,0 +1,772 @@
+[
+    {
+        "name": "Robert Walpole",
+        "id": "Robert_Walpole",
+        "from": "1721-04-03",
+        "to": "1742-02-11",
+        "party": {
+            "name": "Whig",
+            "id": "Whigs_(British_political_party)"
+        }
+    },
+    {
+        "name": "Spencer Compton, 1st Earl of Wilmington",
+        "id": "Spencer_Compton,_1st_Earl_of_Wilmington",
+        "from": "1742-02-16",
+        "to": "1743-07-02",
+        "party": {
+            "name": "Whig",
+            "id": "Whigs_(British_political_party)"
+        }
+    },
+    {
+        "name": "Henry Pelham",
+        "id": "Henry_Pelham",
+        "from": "1743-08-27",
+        "to": "1754-03-06",
+        "party": {
+            "name": "Whig",
+            "id": "Whigs_(British_political_party)"
+        }
+    },
+    {
+        "name": "Thomas Pelham-Holles, 1st Duke of Newcastle",
+        "id": "Thomas_Pelham-Holles,_1st_Duke_of_Newcastle",
+        "from": "1754-03-16",
+        "to": "1756-11-11",
+        "party": {
+            "name": "Whig",
+            "id": "Whigs_(British_political_party)"
+        }
+    },
+    {
+        "name": "William Cavendish, 4th Duke of Devonshire",
+        "id": "William_Cavendish,_4th_Duke_of_Devonshire",
+        "from": "1756-11-16",
+        "to": "1757-06-29",
+        "party": {
+            "name": "Whig",
+            "id": "Whigs_(British_political_party)"
+        }
+    },
+    {
+        "name": "Thomas Pelham-Holles, 1st Duke of Newcastle",
+        "id": "Thomas_Pelham-Holles,_1st_Duke_of_Newcastle",
+        "from": "1757-06-29",
+        "to": "1762-05-26",
+        "party": {
+            "name": "Whig",
+            "id": "Whigs_(British_political_party)"
+        }
+    },
+    {
+        "name": "John Stuart, 3rd Earl of Bute",
+        "id": "John_Stuart,_3rd_Earl_of_Bute",
+        "from": "1762-05-26",
+        "to": "1763-04-08",
+        "party": {
+            "name": "Tory",
+            "id": "Tories_(British_political_party)"
+        }
+    },
+    {
+        "name": "George Grenville",
+        "id": "George_Grenville",
+        "from": "1763-04-16",
+        "to": "1765-07-10",
+        "party": {
+            "name": "Whig",
+            "id": "Whigs_(British_political_party)"
+        }
+    },
+    {
+        "name": "Charles Watson-Wentworth, 2nd Marquess of Rockingham",
+        "id": "Charles_Watson-Wentworth,_2nd_Marquess_of_Rockingham",
+        "from": "1765-07-13",
+        "to": "1766-07-30",
+        "party": {
+            "name": "Whig",
+            "id": "Whigs_(British_political_party)"
+        }
+    },
+    {
+        "name": "William Pitt, 1st Earl of Chatham",
+        "id": "William_Pitt,_1st_Earl_of_Chatham",
+        "from": "1766-07-30",
+        "to": "1768-10-14",
+        "party": {
+            "name": "Whig",
+            "id": "Whigs_(British_political_party)"
+        }
+    },
+    {
+        "name": "Augustus FitzRoy, 3rd Duke of Grafton",
+        "id": "Augustus_FitzRoy,_3rd_Duke_of_Grafton",
+        "from": "1768-10-14",
+        "to": "1770-01-28",
+        "party": {
+            "name": "Whig",
+            "id": "Whigs_(British_political_party)"
+        }
+    },
+    {
+        "name": "Frederick North, Lord North",
+        "id": "Frederick_North,_Lord_North",
+        "from": "1770-01-28",
+        "to": "1782-03-27",
+        "party": {
+            "name": "Tory",
+            "id": "Tories_(British_political_party)"
+        }
+    },
+    {
+        "name": "Charles Watson-Wentworth, 2nd Marquess of Rockingham",
+        "id": "Charles_Watson-Wentworth,_2nd_Marquess_of_Rockingham",
+        "from": "1782-03-27",
+        "to": "1782-07-01",
+        "party": {
+            "name": "Whig",
+            "id": "Whigs_(British_political_party)"
+        }
+    },
+    {
+        "name": "William Petty, 2nd Earl of Shelburne",
+        "id": "William_Petty,_2nd_Earl_of_Shelburne",
+        "from": "1782-07-04",
+        "to": "1783-03-26",
+        "party": {
+            "name": "Whig",
+            "id": "Whigs_(British_political_party)"
+        }
+    },
+    {
+        "name": "William Cavendish-Bentinck, 3rd Duke of Portland",
+        "id": "William_Cavendish-Bentinck,_3rd_Duke_of_Portland",
+        "from": "1783-04-02",
+        "to": "1783-12-18",
+        "party": {
+            "name": "Whig",
+            "id": "Whigs_(British_political_party)"
+        }
+    },
+    {
+        "name": "William Pitt the Younger",
+        "id": "William_Pitt_the_Younger",
+        "from": "1783-12-19",
+        "to": "1801-03-14",
+        "party": {
+            "name": "Tory",
+            "id": "Tories_(British_political_party)"
+        }
+    },
+    {
+        "name": "Henry Addington, 1st Viscount Sidmouth",
+        "id": "Henry_Addington,_1st_Viscount_Sidmouth",
+        "from": "1801-03-17",
+        "to": "1804-05-10",
+        "party": {
+            "name": "Tory",
+            "id": "Tories_(British_political_party)"
+        }
+    },
+    {
+        "name": "William Pitt the Younger",
+        "id": "William_Pitt_the_Younger",
+        "from": "1804-05-10",
+        "to": "1806-01-23",
+        "party": {
+            "name": "Tory",
+            "id": "Tories_(British_political_party)"
+        }
+    },
+    {
+        "name": "William Grenville, 1st Baron Grenville",
+        "id": "William_Grenville,_1st_Baron_Grenville",
+        "from": "1806-02-11",
+        "to": "1807-03-25",
+        "party": {
+            "name": "Whig",
+            "id": "Whigs_(British_political_party)"
+        }
+    },
+    {
+        "name": "William Cavendish-Bentinck, 3rd Duke of Portland",
+        "id": "William_Cavendish-Bentinck,_3rd_Duke_of_Portland",
+        "from": "1807-03-31",
+        "to": "1809-10-04",
+        "party": {
+            "name": "Tory",
+            "id": "Tories_(British_political_party)"
+        }
+    },
+    {
+        "name": "Spencer Perceval",
+        "id": "Spencer_Perceval",
+        "from": "1809-10-04",
+        "to": "1812-05-11",
+        "party": {
+            "name": "Tory",
+            "id": "Tories_(British_political_party)"
+        }
+    },
+    {
+        "name": "Robert Jenkinson, 2nd Earl of Liverpool",
+        "id": "Robert_Jenkinson,_2nd_Earl_of_Liverpool",
+        "from": "1812-06-08",
+        "to": "1827-04-09",
+        "party": {
+            "name": "Tory",
+            "id": "Tories_(British_political_party)"
+        }
+    },
+    {
+        "name": "George Canning",
+        "id": "George_Canning",
+        "from": "1827-04-12",
+        "to": "1827-08-08",
+        "party": {
+            "name": "Tory",
+            "id": "Tories_(British_political_party)"
+        }
+    },
+    {
+        "name": "F. J. Robinson, 1st Viscount Goderich",
+        "id": "F._J._Robinson,_1st_Viscount_Goderich",
+        "from": "1827-08-31",
+        "to": "1828-01-08",
+        "party": {
+            "name": "Tory",
+            "id": "Tories_(British_political_party)"
+        }
+    },
+    {
+        "name": "Arthur Wellesley, 1st Duke of Wellington",
+        "id": "Arthur_Wellesley,_1st_Duke_of_Wellington",
+        "from": "1828-01-22",
+        "to": "1830-11-16",
+        "party": {
+            "name": "Tory",
+            "id": "Tories_(British_political_party)"
+        }
+    },
+    {
+        "name": "Charles Grey, 2nd Earl Grey",
+        "id": "Charles_Grey,_2nd_Earl_Grey",
+        "from": "1830-11-22",
+        "to": "1834-07-09",
+        "party": {
+            "name": "Whig",
+            "id": "Whigs_(British_political_party)"
+        }
+    },
+    {
+        "name": "William Lamb, 2nd Viscount Melbourne",
+        "id": "William_Lamb,_2nd_Viscount_Melbourne",
+        "from": "1834-07-16",
+        "to": "1834-11-14",
+        "party": {
+            "name": "Whig",
+            "id": "Whigs_(British_political_party)"
+        }
+    },
+    {
+        "name": "Arthur Wellesley, 1st Duke of Wellington",
+        "id": "Arthur_Wellesley,_1st_Duke_of_Wellington",
+        "from": "1834-11-17",
+        "to": "1834-12-09",
+        "party": {
+            "name": "Tory",
+            "id": "Tories_(British_political_party)"
+        }
+    },
+    {
+        "name": "Robert Peel",
+        "id": "Robert_Peel",
+        "from": "1834-12-10",
+        "to": "1835-04-08",
+        "party": {
+            "name": "Conservative",
+            "id": "Conservative_Party_(UK)"
+        }
+    },
+    {
+        "name": "William Lamb, 2nd Viscount Melbourne",
+        "id": "William_Lamb,_2nd_Viscount_Melbourne",
+        "from": "1835-04-18",
+        "to": "1841-08-30",
+        "party": {
+            "name": "Whig",
+            "id": "Whigs_(British_political_party)"
+        }
+    },
+    {
+        "name": "Robert Peel",
+        "id": "Robert_Peel",
+        "from": "1841-08-30",
+        "to": "1846-06-29",
+        "party": {
+            "name": "Conservative",
+            "id": "Conservative_Party_(UK)"
+        }
+    },
+    {
+        "name": "John Russell, 1st Earl Russell",
+        "id": "John_Russell,_1st_Earl_Russell",
+        "from": "1846-06-30",
+        "to": "1852-02-21",
+        "party": {
+            "name": "Whig",
+            "id": "Whigs_(British_political_party)"
+        }
+    },
+    {
+        "name": "Edward Smith-Stanley, 14th Earl of Derby",
+        "id": "Edward_Smith-Stanley,_14th_Earl_of_Derby",
+        "from": "1852-02-23",
+        "to": "1852-12-17",
+        "party": {
+            "name": "Conservative",
+            "id": "Conservative_Party_(UK)"
+        }
+    },
+    {
+        "name": "George Hamilton-Gordon, 4th Earl of Aberdeen",
+        "id": "George_Hamilton-Gordon,_4th_Earl_of_Aberdeen",
+        "from": "1852-12-19",
+        "to": "1855-01-30",
+        "party": {
+            "name": "Conservative",
+            "id": "Conservative_Party_(UK)"
+        }
+    },
+    {
+        "name": "Henry John Temple, 3rd Viscount Palmerston",
+        "id": "Henry_John_Temple,_3rd_Viscount_Palmerston",
+        "from": "1855-02-06",
+        "to": "1858-02-19",
+        "party": {
+            "name": "Whig",
+            "id": "Whigs_(British_political_party)"
+        }
+    },
+    {
+        "name": "Edward Smith-Stanley, 14th Earl of Derby",
+        "id": "Edward_Smith-Stanley,_14th_Earl_of_Derby",
+        "from": "1858-02-20",
+        "to": "1859-06-11",
+        "party": {
+            "name": "Conservative",
+            "id": "Conservative_Party_(UK)"
+        }
+    },
+    {
+        "name": "Henry John Temple, 3rd Viscount Palmerston",
+        "id": "Henry_John_Temple,_3rd_Viscount_Palmerston",
+        "from": "1859-06-12",
+        "to": "1865-10-18",
+        "party": {
+            "name": "Liberal",
+            "id": "Liberal_Party_(UK)"
+        }
+    },
+    {
+        "name": "John Russell, 1st Earl Russell",
+        "id": "John_Russell,_1st_Earl_Russell",
+        "from": "1865-10-29",
+        "to": "1866-06-26",
+        "party": {
+            "name": "Liberal",
+            "id": "Liberal_Party_(UK)"
+        }
+    },
+    {
+        "name": "Edward Smith-Stanley, 14th Earl of Derby",
+        "id": "Edward_Smith-Stanley,_14th_Earl_of_Derby",
+        "from": "1866-06-28",
+        "to": "1868-02-25",
+        "party": {
+            "name": "Conservative",
+            "id": "Conservative_Party_(UK)"
+        }
+    },
+    {
+        "name": "Benjamin Disraeli",
+        "id": "Benjamin_Disraeli",
+        "from": "1868-02-27",
+        "to": "1868-12-01",
+        "party": {
+            "name": "Conservative",
+            "id": "Conservative_Party_(UK)"
+        }
+    },
+    {
+        "name": "William Ewart Gladstone",
+        "id": "William_Ewart_Gladstone",
+        "from": "1868-12-03",
+        "to": "1874-02-17",
+        "party": {
+            "name": "Liberal",
+            "id": "Liberal_Party_(UK)"
+        }
+    },
+    {
+        "name": "Benjamin Disraeli",
+        "id": "Benjamin_Disraeli",
+        "from": "1874-02-20",
+        "to": "1880-04-21",
+        "party": {
+            "name": "Conservative",
+            "id": "Conservative_Party_(UK)"
+        }
+    },
+    {
+        "name": "William Ewart Gladstone",
+        "id": "William_Ewart_Gladstone",
+        "from": "1880-04-23",
+        "to": "1885-06-09",
+        "party": {
+            "name": "Liberal",
+            "id": "Liberal_Party_(UK)"
+        }
+    },
+    {
+        "name": "Robert Gascoyne-Cecil, 3rd Marquess of Salisbury",
+        "id": "Robert_Gascoyne-Cecil,_3rd_Marquess_of_Salisbury",
+        "from": "1885-06-23",
+        "to": "1886-01-28",
+        "party": {
+            "name": "Conservative",
+            "id": "Conservative_Party_(UK)"
+        }
+    },
+    {
+        "name": "William Ewart Gladstone",
+        "id": "William_Ewart_Gladstone",
+        "from": "1886-02-01",
+        "to": "1886-07-20",
+        "party": {
+            "name": "Liberal",
+            "id": "Liberal_Party_(UK)"
+        }
+    },
+    {
+        "name": "Robert Gascoyne-Cecil, 3rd Marquess of Salisbury",
+        "id": "Robert_Gascoyne-Cecil,_3rd_Marquess_of_Salisbury",
+        "from": "1886-07-25",
+        "to": "1892-08-11",
+        "party": {
+            "name": "Conservative",
+            "id": "Conservative_Party_(UK)"
+        }
+    },
+    {
+        "name": "William Ewart Gladstone",
+        "id": "William_Ewart_Gladstone",
+        "from": "1892-08-15",
+        "to": "1894-03-02",
+        "party": {
+            "name": "Liberal",
+            "id": "Liberal_Party_(UK)"
+        }
+    },
+    {
+        "name": "Archibald Primrose, 5th Earl of Rosebery",
+        "id": "Archibald_Primrose,_5th_Earl_of_Rosebery",
+        "from": "1894-03-05",
+        "to": "1895-06-22",
+        "party": {
+            "name": "Liberal",
+            "id": "Liberal_Party_(UK)"
+        }
+    },
+    {
+        "name": "Robert Gascoyne-Cecil, 3rd Marquess of Salisbury",
+        "id": "Robert_Gascoyne-Cecil,_3rd_Marquess_of_Salisbury",
+        "from": "1895-06-25",
+        "to": "1902-07-11",
+        "party": {
+            "name": "Conservative",
+            "id": "Conservative_Party_(UK)"
+        }
+    },
+    {
+        "name": "Arthur Balfour",
+        "id": "Arthur_Balfour",
+        "from": "1902-07-12",
+        "to": "1905-12-04",
+        "party": {
+            "name": "Conservative",
+            "id": "Conservative_Party_(UK)"
+        }
+    },
+    {
+        "name": "Henry Campbell-Bannerman",
+        "id": "Henry_Campbell-Bannerman",
+        "from": "1905-12-05",
+        "to": "1908-04-03",
+        "party": {
+            "name": "Liberal",
+            "id": "Liberal_Party_(UK)"
+        }
+    },
+    {
+        "name": "H. H. Asquith",
+        "id": "H._H._Asquith",
+        "from": "1908-04-08",
+        "to": "1916-12-05",
+        "party": {
+            "name": "Liberal",
+            "id": "Liberal_Party_(UK)"
+        }
+    },
+    {
+        "name": "David Lloyd George",
+        "id": "David_Lloyd_George",
+        "from": "1916-12-06",
+        "to": "1922-10-19",
+        "party": {
+            "name": "Liberal",
+            "id": "Liberal_Party_(UK)"
+        }
+    },
+    {
+        "name": "Bonar Law",
+        "id": "Bonar_Law",
+        "from": "1922-10-23",
+        "to": "1923-05-20",
+        "party": {
+            "name": "Conservative",
+            "id": "Conservative_Party_(UK)"
+        }
+    },
+    {
+        "name": "Stanley Baldwin",
+        "id": "Stanley_Baldwin",
+        "from": "1923-05-22",
+        "to": "1924-01-22",
+        "party": {
+            "name": "Conservative",
+            "id": "Conservative_Party_(UK)"
+        }
+    },
+    {
+        "name": "Ramsay MacDonald",
+        "id": "Ramsay_MacDonald",
+        "from": "1924-01-22",
+        "to": "1924-11-04",
+        "party": {
+            "name": "Labour",
+            "id": "Labour_Party_(UK)"
+        }
+    },
+    {
+        "name": "Stanley Baldwin",
+        "id": "Stanley_Baldwin",
+        "from": "1924-11-04",
+        "to": "1929-06-04",
+        "party": {
+            "name": "Conservative",
+            "id": "Conservative_Party_(UK)"
+        }
+    },
+    {
+        "name": "Ramsay MacDonald",
+        "id": "Ramsay_MacDonald",
+        "from": "1929-06-05",
+        "to": "1935-06-07",
+        "party": {
+            "name": "Labour",
+            "id": "Labour_Party_(UK)"
+        }
+    },
+    {
+        "name": "Stanley Baldwin",
+        "id": "Stanley_Baldwin",
+        "from": "1935-06-07",
+        "to": "1937-05-28",
+        "party": {
+            "name": "Conservative",
+            "id": "Conservative_Party_(UK)"
+        }
+    },
+    {
+        "name": "Neville Chamberlain",
+        "id": "Neville_Chamberlain",
+        "from": "1937-05-28",
+        "to": "1940-05-10",
+        "party": {
+            "name": "Conservative",
+            "id": "Conservative_Party_(UK)"
+        }
+    },
+    {
+        "name": "Winston Churchill",
+        "id": "Winston_Churchill",
+        "from": "1940-05-10",
+        "to": "1945-07-26",
+        "party": {
+            "name": "Conservative",
+            "id": "Conservative_Party_(UK)"
+        }
+    },
+    {
+        "name": "Clement Attlee",
+        "id": "Clement_Attlee",
+        "from": "1945-07-26",
+        "to": "1951-10-26",
+        "party": {
+            "name": "Labour",
+            "id": "Labour_Party_(UK)"
+        }
+    },
+    {
+        "name": "Winston Churchill",
+        "id": "Winston_Churchill",
+        "from": "1951-10-26",
+        "to": "1955-04-05",
+        "party": {
+            "name": "Conservative",
+            "id": "Conservative_Party_(UK)"
+        }
+    },
+    {
+        "name": "Anthony Eden",
+        "id": "Anthony_Eden",
+        "from": "1955-04-06",
+        "to": "1957-01-09",
+        "party": {
+            "name": "Conservative",
+            "id": "Conservative_Party_(UK)"
+        }
+    },
+    {
+        "name": "Harold Macmillan",
+        "id": "Harold_Macmillan",
+        "from": "1957-01-10",
+        "to": "1963-10-18",
+        "party": {
+            "name": "Conservative",
+            "id": "Conservative_Party_(UK)"
+        }
+    },
+    {
+        "name": "Alec Douglas-Home",
+        "id": "Alec_Douglas-Home",
+        "from": "1963-10-19",
+        "to": "1964-10-16",
+        "party": {
+            "name": "Conservative",
+            "id": "Conservative_Party_(UK)"
+        }
+    },
+    {
+        "name": "Harold Wilson",
+        "id": "Harold_Wilson",
+        "from": "1964-10-16",
+        "to": "1970-06-19",
+        "party": {
+            "name": "Labour",
+            "id": "Labour_Party_(UK)"
+        }
+    },
+    {
+        "name": "Edward Heath",
+        "id": "Edward_Heath",
+        "from": "1970-06-19",
+        "to": "1974-03-04",
+        "party": {
+            "name": "Conservative",
+            "id": "Conservative_Party_(UK)"
+        }
+    },
+    {
+        "name": "Harold Wilson",
+        "id": "Harold_Wilson",
+        "from": "1974-03-04",
+        "to": "1976-04-05",
+        "party": {
+            "name": "Labour",
+            "id": "Labour_Party_(UK)"
+        }
+    },
+    {
+        "name": "James Callaghan",
+        "id": "James_Callaghan",
+        "from": "1976-04-05",
+        "to": "1979-05-04",
+        "party": {
+            "name": "Labour",
+            "id": "Labour_Party_(UK)"
+        }
+    },
+    {
+        "name": "Margaret Thatcher",
+        "id": "Margaret_Thatcher",
+        "from": "1979-05-04",
+        "to": "1990-11-28",
+        "party": {
+            "name": "Conservative",
+            "id": "Conservative_Party_(UK)"
+        }
+    },
+    {
+        "name": "John Major",
+        "id": "John_Major",
+        "from": "1990-11-28",
+        "to": "1997-05-02",
+        "party": {
+            "name": "Conservative",
+            "id": "Conservative_Party_(UK)"
+        }
+    },
+    {
+        "name": "Tony Blair",
+        "id": "Tony_Blair",
+        "from": "1997-05-02",
+        "to": "2007-06-27",
+        "party": {
+            "name": "Labour",
+            "id": "Labour_Party_(UK)"
+        }
+    },
+    {
+        "name": "Gordon Brown",
+        "id": "Gordon_Brown",
+        "from": "2007-06-27",
+        "to": "2010-05-11",
+        "party": {
+            "name": "Labour",
+            "id": "Labour_Party_(UK)"
+        }
+    },
+    {
+        "name": "David Cameron",
+        "id": "David_Cameron",
+        "from": "2010-05-11",
+        "to": "2016-07-13",
+        "party": {
+            "name": "Conservative",
+            "id": "Conservative_Party_(UK)"
+        }
+    },
+    {
+        "name": "Theresa May",
+        "id": "Theresa_May",
+        "from": "2016-07-13",
+        "to": "2019-07-24",
+        "party": {
+            "name": "Conservative",
+            "id": "Conservative_Party_(UK)"
+        }
+    },
+    {
+        "name": "Boris Johnson",
+        "id": "Boris_Johnson",
+        "from": "2019-07-24",
+        "to": "Incumbent",
+        "party": {
+            "name": "Conservative",
+            "id": "Conservative_Party_(UK)"
+        }
+    }
+]
