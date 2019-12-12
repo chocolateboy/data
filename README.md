@@ -12,7 +12,7 @@ The following data is available:
 A JSON-formatted list of UK Prime Ministers scraped from
 [Wikipedia](https://en.wikipedia.org/wiki/Prime_Minister_of_the_United_Kingdom).
 Each record contains the Prime Minister's name, ID (URI filename), start and
-end date, party name and party ID (URI filename).
+end date (ISO 8601), party name and party ID (URI filename).
 
 ## See Also
 
