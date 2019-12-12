@@ -7,7 +7,7 @@ The following data is available:
 ### UK Prime Ministers
 
 - [View (GitHub)](https://github.com/chocolateboy/data/blob/master/data/uk-prime-ministers.json)
-- [Raw (jsDelivr)](https://cdn.jsdelivr.net/gh/chocolateboy/data@0.0.2/data/uk-prime-ministers.json)
+- [Raw (jsDelivr)](https://cdn.jsdelivr.net/gh/chocolateboy/data@0.0.3/data/uk-prime-ministers.json)
 
 A JSON-formatted list of UK Prime Ministers scraped from
 [Wikipedia](https://en.wikipedia.org/wiki/List_of_prime_ministers_of_the_United_Kingdom).
@@ -20,7 +20,7 @@ end date (ISO 8601), party name, and party ID (URI filename).
 
 ## Version
 
-0.0.2
+0.0.3
 
 ## Curator
 
