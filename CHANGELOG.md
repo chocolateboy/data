@@ -1,3 +1,7 @@
+## 0.1.0 - 2019-12-13
+
+- UK Prime Ministers: fix invalid end-date: `to: "Incumbent"` -> `to: null`
+
 ## 0.0.3 - 2019-12-12
 
 - add .gitignore

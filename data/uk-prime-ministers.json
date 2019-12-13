@@ -763,7 +763,7 @@
         "name": "Boris Johnson",
         "id": "Boris_Johnson",
         "from": "2019-07-24",
-        "to": "Incumbent",
+        "to": null,
         "party": {
             "name": "Conservative",
             "id": "Conservative_Party_(UK)"
